@@ -25,8 +25,11 @@ implementation 'com.theartofdev.edmodo:android-image-cropper:2.7.+'
 The App package can be accesed with different IDE’s that works with Java like “Visual Studio and Eclipse.” See documentation presentation for steps on how to open package with different IDEs.
 
 Developer Information:
+
 Name: Yusuf Halim.
+
 Email: halimyu02@gmail.com
+
 Phone: (641) 458-0630
 
 
