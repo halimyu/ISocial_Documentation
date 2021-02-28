@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49326598044",
+    "project_id": "isocial-645af",
+    "storage_bucket": "isocial-645af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49326598044:android:52ea86c9e9c50c35164a59",
+        "android_client_info": {
+          "package_name": "com.app.isocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49326598044-it3qfjbn840q01n8ad3o91htdquvi4l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhwMUNHluR7zG2MbBQAmjYJTuMyYaQosE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49326598044-it3qfjbn840q01n8ad3o91htdquvi4l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
